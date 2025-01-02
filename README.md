@@ -1,2 +1,3 @@
 # Demo
-demo repository
+demo repository contains stream test project
+

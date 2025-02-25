@@ -1,4 +1,4 @@
 package com.stream.basic;
 
-public record Location(String id) {
+public record Location(String id, String locationName) {
 }
